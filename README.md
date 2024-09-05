@@ -1,4 +1,10 @@
-
+**Name:** GURUPRASAD K M 
+**Company:** CODETECH IT SOLUTIONS
+**ID:** CT08DS6463
+**Domain:**  Frontend Web development
+**Duation:** AUGUST 5th, 2024 to SEPTEMBER 5th,
+2024.
+**Mentor:** Srilakshmi
 # Interactive Quiz Application
 
 ## Overview
